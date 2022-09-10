@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakeshkumar041
 - 👀 I’m interested in working with C++ and Blockchain related projects
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently exploring the world of Blockchain
 - 📫 Reach me at rockyrakesh041.ece@gmail.com
 
 <!---
